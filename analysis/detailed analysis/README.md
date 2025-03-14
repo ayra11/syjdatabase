@@ -1,15 +1,13 @@
 # Job Split Analysis
 
+This project focuses on extracting major-related information from job postings to accurately determine the corresponding undergraduate major for each position. The dataset used in this analysis is the same as in the **Basic Analysis** folder. Please refer to that folder for detailed information about data collection and preprocessing.
+
 ## Table of Contents
-- [Overview](#Overview)
 - [Data Source](#data-source)
 - [Analysis Components](#analysis-components)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Related Work](#acknowledgments)
-
-## Overview
-This project focuses on extracting major-related information from job postings to accurately determine the corresponding undergraduate major for each position. The dataset used in this analysis is the same as in the **Basic Analysis** folder. Please refer to that folder for detailed information about data collection and preprocessing.
 
 ## Data Source
 The data used in this project is scraped from the **51job** website, containing job postings and relevant details.

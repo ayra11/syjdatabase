@@ -1,16 +1,14 @@
 # 51job Data Analysis
 
+This project analyzes job postings from the Chinese recruitment website **51job**. Data was collected using web scraping, and only a small sample was used for analysis. The dataset consists of two main parts: **primary data** and **detailed data**.
+
 ## Table of Contents
-- [Introduction](#introduction)
 - [Data Source](#data-source)
 - [Data Description](#dataset-structure)
 - [Analysis Components](#analysis-components)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Acknowledgments](#acknowledgments)
-
-## Introduction
-This project analyzes job postings from the Chinese recruitment website **51job**. Data was collected using web scraping, and only a small sample was used for analysis. The dataset consists of two main parts: **primary data** and **detailed data**.
 
 ## Data Source
 The data comes from **51job**, one of the largest job recruitment websites in China. Web scraping techniques were employed to extract job postings, ensuring that only a subset of the total data was used.
